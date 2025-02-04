@@ -16,3 +16,6 @@ This repository provides an analysis of household deposits from Romania, using t
 ## Files:
 - **Depo.ipynb**: Jupyter Notebook containing the analysis, model fitting, and forecast generation.
 - **data/**: Folder containing the data file (`IFMDL.xls`), which includes the historical household deposits.
+
+## Data source:
+- https://www.bnro.ro/Depozitele-gospodariilor-populatiei-5794.aspx
